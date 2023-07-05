@@ -192,7 +192,8 @@ Banner Area Two
   left: 0;
   width: 55%;
   height: 100%;
-  background-image: url;
+  background-image: url(./assets/images/home-two/home-two-bg.png);   /*Importante*/
+
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
