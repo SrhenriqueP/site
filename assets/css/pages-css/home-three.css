@@ -176,6 +176,7 @@ Services Tab Area
 }
 
 .services-tab .tabs li {
+  margin-bottom: 10px;
   display: inline-block;
   line-height: initial;
   margin-right: 25px;
