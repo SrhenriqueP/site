@@ -597,6 +597,7 @@ Responsive Css
   background-color: #000213;
   color: white;
   font-size: 15px;
+  border-top: 4px solid #311aa3;
 }
 .footer-top .footer-box{
   margin-bottom: 15px;
