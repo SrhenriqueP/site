@@ -384,9 +384,9 @@
   background-color: var(--orangeColor);
 }
 
-.theme-dark .footer-area-bg {
+/*--.theme-dark .footer-area-bg {
   background-color: var(--cardColor);
-}
+}---*/
 
 .theme-dark .footer-top-two {
   background-color: var(--bgColor);
