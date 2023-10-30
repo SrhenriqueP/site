@@ -725,6 +725,4 @@ file_put_contents($arquivo_log, $visitas_detalhadas . PHP_EOL, FILE_APPEND);
        <script src="assets/js/custom.js"></script>
 
     </body>
-
-
 </html>

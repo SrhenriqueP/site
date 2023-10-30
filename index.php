@@ -74,6 +74,13 @@ $pagina_mais_acessada = key($_SESSION['visit_count']);
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/images/logos/icon-PriMax.ico">
+
+            <!-- Criador do site 
+                    Contato
+            linkedin.com/luizhenriquepaulino
+            github.com/MrLHenrique
+            -->
+
 </head>
 
 <body>
